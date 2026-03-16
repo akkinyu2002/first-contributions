@@ -1386,3 +1386,5 @@ Rongxin Zhang
 - [Aditya Singh](https://github.com/adityasingh-dev-in)
 - Yash Baghel
 - [Yaswanth Kumar Bandela](https://github.com/yaswanthbandela)
+- [Aakash Neupane](https://github.com/akkinyu2002)
+
