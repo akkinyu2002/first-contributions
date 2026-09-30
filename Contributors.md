@@ -6422,6 +6422,7 @@ HEAD
 - [Vishwanath] ()
 
 - [Yessin Feki](https://github.com/yfeki83-pixel) My first contribution!
+- [Aakash Neupane](https://github.com/akkinyu2002) My first contribution!
 
 - [Romain](https://github.com/Romain775) My first contribution!
 main
